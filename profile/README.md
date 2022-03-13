@@ -1,2 +1,3 @@
-## Hi there 👋
-we are xincraft
+## Hey there! 👋
+
+We are XinCraft.
